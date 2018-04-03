@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "antiagingtouch",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.6.6",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -644,12 +644,12 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "7",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "WHAT IS AN ANTI-ANGING MASSAGE?",
-          "meta": "By guest writer",
+          "meta": "By Nicole Hope",
           "_tags": [
             "Theme"
           ],
