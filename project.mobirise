@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "antiagingtouch",
-    "currentPage": "page2.html",
+    "currentPage": "prices",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -737,7 +737,7 @@
         }
       ]
     },
-    "page3.html": {
+    "prices": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Prices",
